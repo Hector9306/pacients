@@ -5,7 +5,7 @@
     "receiberName": "Laverne Leffler",
     "folioNumber": 48349,
     "abonosQ": [
-	 	{ "fecha": "12-12-1993", "cantidad": "600$", "recibe": "joana", "folio": "12234" },
+	      	{ "fecha": "12-12-1993", "cantidad": "600$", "recibe": "joana", "folio": "12234" },
         	{ "fecha": "12-12-1999", "cantidad": "700$", "recibe": "lupe", "folio": "12235" }
 	       ],
     "id": "1"
@@ -16,9 +16,9 @@
     "receiberName": "Ora Brekke",
     "folioNumber": 9359,
     "abonosQ": [
-		{ "fecha": "12-12-1998", "cantidad": "600$", "recibe": "joana", "folio": "12234" },
+		      { "fecha": "12-12-1998", "cantidad": "600$", "recibe": "joana", "folio": "12234" },
         	{ "fecha": "12-12-2013", "cantidad": "700$", "recibe": "lupe", "folio": "12235" },
-		{ "fecha": "12-12-2023", "cantidad": "500$", "recibe": "Jorge", "folio": "55669" },
+		      { "fecha": "12-12-2023", "cantidad": "500$", "recibe": "Jorge", "folio": "55669" }
 	       ],
     "id": "2"
   },
@@ -30,9 +30,9 @@
     "abonosQ": [
 		{ "fecha": "12-12-1998", "cantidad": "600$", "recibe": "joana", "folio": "12234" },
         	{ "fecha": "12-12-2013", "cantidad": "700$", "recibe": "lupe", "folio": "12235" },
-		{ "fecha": "12-01-2021", "cantidad": "1000$", "recibe": "Alexis", "folio": "444578" },
-		{ "fecha": "29-04-2021", "cantidad": "200$", "recibe": "Ernestino", "folio": "446789" },
-	        { "fecha": "31-07-2022", "cantidad": "467$", "recibe": "Sonia Blade", "folio": "877654" },
+          { "fecha": "12-01-2021", "cantidad": "1000$", "recibe": "Alexis", "folio": "444578" },
+          { "fecha": "29-04-2021", "cantidad": "200$", "recibe": "Ernestino", "folio": "446789" },
+	        { "fecha": "31-07-2022", "cantidad": "467$", "recibe": "Sonia Blade", "folio": "877654" }
 	       ],
     "id": "3"
   },
@@ -42,7 +42,7 @@
     "receiberName": "Ella Ward",
     "folioNumber": 26332,
     "abonosQ": [
-		{ "fecha": "15-03-2024", "cantidad": "989$", "recibe": "Juan lopez", "folio": "556789" },
+		        { "fecha": "15-03-2024", "cantidad": "989$", "recibe": "Juan lopez", "folio": "556789" }
 	       ],
     "id": "4"
   }
